@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "481860300751",
+    "project_id": "android-verzeo",
+    "storage_bucket": "android-verzeo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481860300751:android:645156183824b866bdecba",
+        "android_client_info": {
+          "package_name": "com.example.major_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481860300751-gj10mq8q5o5ds4tne00uj12i9va74l7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKc68xAWDd2GQMeMWmFk9KChdgfIl2pl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481860300751-gj10mq8q5o5ds4tne00uj12i9va74l7v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
